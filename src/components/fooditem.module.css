@@ -1,0 +1,27 @@
+.itemContainer {
+  width: 45%;
+  border-radius: 8px;
+  box-shadow: 0px 4px 6px #ddd;
+  text-align: center;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  display: inline-block;
+}
+
+.itemContainer img {
+  width: 100%;
+}
+.itemContainer h1 {
+  font-size: 14px;
+  font-family: cursive;
+}
+.itemContainer button {
+  padding: 5px 10px;
+  background: #333;
+  color: white;
+  border: none;
+  margin-bottom: 10px;
+  border-radius: 40px;
+  font-size: 12px;
+  cursor: pointer;
+}

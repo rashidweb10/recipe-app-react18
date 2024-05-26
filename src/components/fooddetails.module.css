@@ -1,0 +1,16 @@
+.detailContainer {
+  position: absolute;
+  top: 25.9%;
+  left: 50%;
+  width: 46%;
+  padding: 15px;
+  border: 1px solid #b5b5b5;
+}
+.detailContainer img {
+  width: 100%;
+}
+
+.detailContainer h1 {
+  font-size: 25px;
+  font-family: cursive;
+}
